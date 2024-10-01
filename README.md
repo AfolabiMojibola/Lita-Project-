@@ -18,6 +18,7 @@ Data Analysis involves inspecting, cleasing, transforming, and modeling data to 
 * Microsoft Excel
 * SQL(Structured Query Language)
 * Power BI
+
 Other empowering tools used in the class
 * LinkedIn: To optimize LinkedIn profile for a better career opportunity
 * Github: For portfolio building 
