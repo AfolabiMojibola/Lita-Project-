@@ -11,3 +11,8 @@ Data Analysis involves inspecting, cleasing, transforming, and modeling data to 
 * Critical thinking
 * Data Wrangling and Cleaning 
 * Communication Skills
+
+### Tools used in the Data Analysis class
+* Microsoft Excel
+* SQL
+* Power BI
