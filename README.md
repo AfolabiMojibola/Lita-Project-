@@ -4,8 +4,11 @@ Documentation of my project while learning Data Analysis with the incubator hub
 # Project Topic - Data Analysis 
 ## Project Outline
   [Project Overview](#project-overview)
+
   [Data Analysis](#data-analysis)
+
   [Skills required for Data Analysis](#skills-required-for-data-analysis)
+
   [Tools used in the Data Analysis class](#tools-used-in-the-data-analysis-class)
  
 
