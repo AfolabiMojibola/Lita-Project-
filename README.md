@@ -1,7 +1,7 @@
 # Lita-Project-
 Documentation of my project while learning Data Analysis with the incubator hub
 
-## Project Topic - Data Analysis 
+# Project Topic - Data Analysis 
 
 ## Project Overview
 ### Data Analysis
