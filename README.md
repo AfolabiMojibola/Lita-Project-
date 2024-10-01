@@ -4,8 +4,7 @@ Documentation of my project while learning Data Analysis with the incubator hub
 # Project Topic - Data Analysis 
 
 ## Project Overview
-### Data Analysis
-___
+### Data Analysis___
 Data Analysis involves inspecting, cleasing, transforming, and modeling data to discover useful information, draw conclusions and support decision making.
 
 ### Skills required for Data Analysis
