@@ -49,6 +49,7 @@ This is a spreadsheet application used to store data and analyse data. In excel,
 * Data validation is making sure there are no errors in data inputs
 
 #### Excel Functions
+___
 Some basic excel functions learnt during the class
  1. Sum Function: This adds up numbers in excel.
   Example: =SUM(A1:A10)
@@ -73,4 +74,15 @@ Some basic excel functions learnt during the class
 * Mid function
 * Random function
 * Trim Function
-* Cases function etc
+* Cases function 
+* V-Lookup
+* Conditional functions(if, ifs, switch, and, or,etc)
+ 
+#### Reporting in excel
+___
+Here, the Pivot table was discussed. The Pivot table is a data summarizing tool. It is used to manage a report in excel. It can be prepared from a table, range or from an internal data source. There is a field in the Pivot table which is used to categorise columns for a report.
+
+
+
+
+  
