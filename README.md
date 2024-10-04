@@ -116,8 +116,12 @@ ORDERBY COUNT(staffid) desc
 
 SELECT * FROM SALARY 
 WHERE salary BETWEEN 50,000 and 100,000
+
+FROM EMPLOYEE
+JOIN SALARY
+on salary.staffid = employee.staffid
 ```
-The above queries have their specific functions as to what they can do in the SQL Server database
+The above queries have their specific functions as to what they can do in the SQL Server database. 
 
 ### PowerBI
 ___
