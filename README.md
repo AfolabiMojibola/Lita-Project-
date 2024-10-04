@@ -14,6 +14,8 @@ Documentation of my project while learning Data Analysis with the incubator hub
   [Microsoft Excel](#microsoft-excel)
 
   [Excel Functions](#excel-functions)
+
+  [Reporting in Excel](#reporting-in-excel)
  
 
 ## Project Overview
