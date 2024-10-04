@@ -17,7 +17,7 @@ Documentation of my project while learning Data Analysis with the incubator hub
 
   [Reporting in Excel](#reporting-in-excel)
 
-  [Structured Query Language](#structure-query-language)
+  [Structured Query Language (SQL)](#structure-query-language(SQL))
  
 
 ## Project Overview
@@ -86,7 +86,7 @@ Some basic excel functions learnt during the class
 ___
 Here, the Pivot table was discussed. The Pivot table is a data summarizing tool. It is used to manage a report in excel. It can be prepared from a table, range or from an internal data source. There is a field in the Pivot table which is used to categorise columns for a report.
 
-### Structured Query Language
+### Structured Query Language (SQL)
 ___ 
 SQL is a standard language for relational database system. it is used for storing and managing data in relational database management system (RDBMS). It allows users query the database in a number of ways, using English-like statements. We have RDBMS like MySQL, Postgre SQL, SQL Server etc which use SQL as their standard database language.
 
