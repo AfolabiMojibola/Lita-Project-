@@ -38,6 +38,7 @@ Other empowering tools used in the class
 * Github: For portfolio building 
 
 ### Microsoft Excel
+___
 This is a spreadsheet application used to store data and analyse data. In excel, there is data entry, formatting and data validation. 
 * Data entry is the input of data into a spreadsheet before analysis
 * Formatting makes data appear more visible in excel especially working with a large worksheet
