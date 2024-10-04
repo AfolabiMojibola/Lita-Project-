@@ -30,7 +30,7 @@ ___
 ### Tools used in the Data Analysis class
 ___
 * Microsoft Excel [Download Here](http.//www.microsoft.com)
-* SQL(Structured Query Language) 
+* SQL(Structured Query Language) [Download Here](http.//www.microsoft.com)
 * Power BI [Download Here](http.//www.microsoft.com)
 
 Other empowering tools used in the class
