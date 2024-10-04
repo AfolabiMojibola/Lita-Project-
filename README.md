@@ -95,4 +95,6 @@ In this class, we focused on SQL Server. Here are some queries used in SQL Serve
 
 CREATE TABLE EMPLOYEE
 
+SELECT * FROM EMPLOYEE
+
   
