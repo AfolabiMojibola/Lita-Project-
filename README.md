@@ -11,6 +11,10 @@ Documentation of my project while learning Data Analysis with the incubator hub
 
   [Tools used in the Data Analysis class](#tools-used-in-the-data-analysis-class)
  
+  [Microsoft Excel](#microsoft-excel)
+
+  [Excel Functions](#excel-functions)
+ 
 
 ## Project Overview
 This project shows the ways by which data analysis can be carried out in different areas of life. it also shows the different tools and ways these tools can be used to analyze data in their own special ways. 
