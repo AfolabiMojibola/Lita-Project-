@@ -47,9 +47,8 @@ This is a spreadsheet application used to store data and analyse data. In excel,
 #### Excel Functions
 Some basic excel functions learnt during the class
  1. Sum Function: This adds up numbers in excel.
-  Example: 
-``` SUM
-   =sum(A1:A10)
+  Example: ``` SUM
+          =sum(A1:A10)
 
 
 ``` SQL
