@@ -31,7 +31,7 @@ ___
 ___
 * Microsoft Excel [Download Here](http.//www.microsoft.com)
 * SQL(Structured Query Language) 
-* Power BI
+* Power BI [Download Here](http.//www.microsoft.com)
 
 Other empowering tools used in the class
 * LinkedIn: To optimize LinkedIn profile for a better career opportunity
