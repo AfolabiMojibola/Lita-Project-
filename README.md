@@ -16,6 +16,8 @@ Documentation of my project while learning Data Analysis with the incubator hub
   [Excel Functions](#excel-functions)
 
   [Reporting in Excel](#reporting-in-excel)
+
+  [Structured Query Language](#structure-query-language)
  
 
 ## Project Overview
