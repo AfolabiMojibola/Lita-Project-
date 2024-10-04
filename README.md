@@ -109,8 +109,15 @@ WHERE STAFF ID = 'AB281'
 
 ALTER TABLE EMPLOYEE
 ADD State_of_Origin varchar(225)
-```
 
+GROUPBY State_of_Origin
+
+ORDERBY COUNT(staffid) desc
+
+SELECT * FROM SALARY 
+WHERE salary BETWEEN 50,000 and 100,000
+```
+The above queries have their specific functions as to what they can do in the SQL Server database
 
 ### PowerBI
 ___
