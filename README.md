@@ -17,7 +17,7 @@ Documentation of my project while learning Data Analysis with the incubator hub
 
   [Reporting in Excel](#reporting-in-excel)
 
-  [Structured Query Language (SQL)](#structure-query-language(SQL))
+  [Structured Query Language(SQL)](#structure-query-language(SQL)
  
 
 ## Project Overview
