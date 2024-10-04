@@ -121,7 +121,14 @@ FROM EMPLOYEE
 JOIN SALARY
 on salary.staffid = employee.staffid
 ```
-The above queries have their specific functions as to what they can do in the SQL Server database. 
+The above queries have their specific functions as to what they can do in the SQL Server database. For example
+* Create table is used to create a table in SQL
+* Select is used to select data from a table. (*) stands for all in SQL
+* GROUPBY is used to group data by certain characteristics like state of origin 
+* Join is used to join 2 or 3 tables together. 
+
+We also have SQL View which is used to view a table without having to write a query. This is usually used by organisations to protect some information for security purposes and more.
+
 
 ### PowerBI
 ___
