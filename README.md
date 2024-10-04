@@ -49,3 +49,6 @@ Some basic excel functions learnt during the class
  1. Sum Function: This adds up numbers in excel.
   Example: ```excel function
    =sum(A1:A10)
+
+``` SQL
+Select * from 
