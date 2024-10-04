@@ -90,5 +90,9 @@ Here, the Pivot table was discussed. The Pivot table is a data summarizing tool.
 ___ 
 SQL is a standard language for relational database system. it is used for storing and managing data in relational database management system (RDBMS). It allows users query the database in a number of ways, using English-like statements. We have RDBMS like MySQL, Postgre SQL, SQL Server etc which use SQL as their standard database language.
 
+In this class, we focused on SQL Server. Here are some queries used in SQL Server
+``` SQL
+
+CREATE TABLE EMPLOYEE
 
   
