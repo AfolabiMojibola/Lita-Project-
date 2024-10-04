@@ -43,3 +43,9 @@ This is a spreadsheet application used to store data and analyse data. In excel,
 * Data entry is the input of data into a spreadsheet before analysis
 * Formatting makes data appear more visible in excel especially working with a large worksheet
 * Data validation is making sure there are no errors in data inputs
+
+#### Excel Functions
+Some basic excel functions learnt during the class
+ 1. Sum Function: This adds up numbers in excel.
+  Example: ```excel function
+   =sum(A1:A10)
