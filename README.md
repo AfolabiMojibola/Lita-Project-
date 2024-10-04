@@ -48,7 +48,25 @@ This is a spreadsheet application used to store data and analyse data. In excel,
 Some basic excel functions learnt during the class
  1. Sum Function: This adds up numbers in excel.
   Example: =SUM(A1:A10)
+ 2. Average function: This finds the average of numbers in excel
+  Example: =AVERAGE(A1:A10)
+ 3. Max Function: This locates the highest figure in excel
+  Example: =MAX(A1:A10)
+ 4. Min Function: This locates the smallest figure in excel
+  Example: =MIN(A1:A10)
+ 5. Count/CountA Function: This counts columns that have numbers while counta is used to count columns with text or mixture of text and numbers
+  Example: =COUNT(A1:A10) or =COUNTA(A1:A10)
+ 6. Large Function: This returns the "n" (ie 2nd, 3rd...) number in a column. 
+  Example: =LARGE(A1:A10,2). 
+  This returns the second largest number in a column
+ 7. Small Function: This returns the "n" (ie 2nd, 3rd...) smallest number in a column
+  Example: =SMALL(A1:A10,3)
+  This returns the third smallest number in a column
 
-
-``` SQL
-Select * from 
+ Other excel functions include;
+* Left function 
+* Right function
+* Mid function
+* Random function
+* Trim Function
+* Cases function etc
