@@ -107,6 +107,7 @@ WHERE STAFF ID = 'AB281'
 
 ALTER TABLE EMPLOYEE
 ADD State_of_Origin varchar(225)
+```
 
 
 ### PowerBI
