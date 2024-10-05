@@ -26,7 +26,7 @@ This project shows the ways by which data analysis can be carried out in differe
 
 ### Data Analysis
 ___
-Data Analysis involves inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions and support decision making.
+Data Analysis involves inspecting, cleansing, transforming, and modeling data to discover useful information, draw conclusions and support decision making.
 
 ### Skills required for Data Analysis
 ___
