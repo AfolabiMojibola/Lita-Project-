@@ -135,7 +135,5 @@ The above queries have their specific functions as to what they can do in the SQ
 We also have SQL View which is used to view a table without having to write a query. This is usually used by organisations to protect some information for security purposes and more.
 
 
-### PowerBI
-___
 
   
