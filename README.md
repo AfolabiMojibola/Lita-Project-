@@ -19,7 +19,6 @@ Documentation of my project while learning Data Analysis with the incubator hub
 
  [Structured Query Language (SQL)](#structured-query-language-SQL)
  
-  [PowerBI](#powerbi)
 
 ## Project Overview
 This project shows the ways by which data analysis can be carried out in different areas of life. it also shows the different tools and ways these tools can be used to analyze data in their own special ways. 
